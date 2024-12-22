@@ -4,37 +4,25 @@ import { useNavigate, Navigate } from 'react-router-dom'
 
 const initLocations = [
     {
-        place: "Raipur",
-        city: "Raipur"
+        place: "Boxhill",
+        city: "Melbourne"
     },
     {
-        place: "Delhi",
-        city: "Delhi"
+        place: "Eveleigh",
+        city: "Sydney"
     },
     {
-        place: "Indore",
-        city: "Indore"
+        place: "Burwood",
+        city: "Melbourne"
     },
     {
-        place: "Sapna Sangeeta",
-        city: "Indore"
-    },
-    {
-        place: "Ab Road",
-        city: "Indore"
-    },
-    {
-        place: "Lig Colony",
-        city: "Indore"
-    },
-    {
-        place: "Sudama Nagar",
-        city: "Indore"
+        place: "Darlington",
+        city: "Sydney"
     },
 ]
 
 const initSpeciality = [
-    'Dentist', 'Gynecologist/obstetrician', 'General Physician', 'Dermatologist', 'Ear-nose-throat (ent) Specialist', 'Homeopath', 'Ayurveda'
+    'Dentist', 'Gynecologist/obstetrician', 'General Physician', 'Dermatologist', 'Ear-nose-throat (ent) Specialist'
 ]
 
 export const FindDoctorSearch = () => {

@@ -1,6 +1,6 @@
 # MediHive_Clone
 #### About MediHive
-> MediHive is on a mission to make quality healthcare affordable and accessible for over a billion+ Indians. We believe in empowering our users with the most accurate, comprehensive, and curated information and care, enabling them to make better healthcare decisions.
+> MediHive is on a mission to make quality healthcare affordable and accessible for over a billion+ people. We believe in empowering our users with the most accurate, comprehensive, and curated information and care, enabling them to make better healthcare decisions.
 
 
 # Technology We Used :computer:
